@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Krunker.io
-// @version      2.2.3
+// @version      2.2.8
 // @description  Free krunker.io aimbot
 // @author       Join here! (https://discord.gg/8TJ5y8F)
 // @match        *://krunker.io/*
